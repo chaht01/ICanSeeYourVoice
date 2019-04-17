@@ -13,12 +13,17 @@ Made with Framer
 ### Quick Gesture
 [![Quick Gesture youtube thumbnail](https://img.youtube.com/vi/uzrNdsMJlVk/0.jpg)](https://www.youtube.com/watch?v=uzrNdsMJlVk)
 
+[play link](http://vlive-quick.hyuntak.com)
+
 ### Balloon Text
 [![Balloon Text youtube thumbnail](https://img.youtube.com/vi/lOfZ-n8QXE0/0.jpg)](https://www.youtube.com/watch?v=lOfZ-n8QXE0)
+
+[play link](http://vlive-balloon.hyuntak.com)
 
 ### Fever Time
 [![Fever Time youtube thumbnail](https://img.youtube.com/vi/FmFVcozFUDQ/0.jpg)](https://www.youtube.com/watch?v=FmFVcozFUDQ)
 
+[play link](http://vlive-fever.hyuntak.com)
 
 For more information, visit portfolio [site](http://hyuntak.com/ndf).
 
