@@ -1,9 +1,9 @@
 # I Can See Your Voice
 VLIVE feature proposal prototyping in Naver Design Fellowship batch 1
 
-Ideation: Soun Bae & Hyuntak Cha
+Ideation: Soeun Bae & Hyuntak Cha
 
-GUI: Soun Bae
+GUI: Soeun Bae
 
 Prototyping: Hyuntak Cha
 
